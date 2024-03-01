@@ -1,9 +1,6 @@
 {
-  "name": "@era37/text-hover",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/era37"
-  },
-  "version": "0.0.3",
+  "name": "text-hover",
+  "version": "0.0.5",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
   "files": [
